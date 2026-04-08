@@ -42,7 +42,7 @@ I am a senior (4th-year) Management Information Systems student at Bandırma Ony
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tubi16&show_icons=true&theme=tokyonight&hide_border=true" alt="Tubi's GitHub Stats" />
+  <img src="https://tubi-stats.vercel.app/api?username=tubi16&show_icons=true&theme=tokyonight&hide_border=true" alt="Tubi's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tubi16&theme=tokyonight&hide_border=true" alt="Tubi's GitHub Streak" />
 </div>
 
