@@ -4,6 +4,7 @@
     <b>Management Information Systems (MIS) Student | System Enthusiast | Developer</b>
   </p>
   <p>
+    <a href="https://ebutugrabkizmaz.com.tr"><img src="https://img.shields.io/badge/My-Blog-2ea44f?style=for-the-badge&logo=globe&logoColor=white" alt="Website"></a>
     <a href="https://gitlab.com/itstubi"><img src="https://img.shields.io/badge/Checkout_my_GitLab-itstubi-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
   </p>
 </div>
